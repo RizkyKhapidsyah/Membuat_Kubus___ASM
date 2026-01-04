@@ -40,4 +40,5 @@ main PROC
     ; Keluar dari program
     invoke ExitProcess, 0
 main ENDP
+
 END main
